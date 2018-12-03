@@ -1,0 +1,187 @@
+{
+  "videoPath": "/home/dfed/Desktop/vlog.mp4",
+  "totalFrameNumber": 7741,
+  "fps": 12,
+  "output": [
+    {
+      "frame_num": 0.0,
+      "ENV_detector": {
+        "ENV": "inside",
+        "ENV_confidence": "0.9542823",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 5.0,
+      "ENV_detector": {
+        "ENV": "inside",
+        "ENV_confidence": "0.93059576",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 10.0,
+      "ENV_detector": {
+        "ENV": "outside",
+        "ENV_confidence": "0.8969941",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 15.0,
+      "ENV_detector": {
+        "ENV": "outside",
+        "ENV_confidence": "0.99817634",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 20.0,
+      "ENV_detector": {
+        "ENV": "outside",
+        "ENV_confidence": "0.686258",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 25.0,
+      "ENV_detector": {
+        "ENV": "outside",
+        "ENV_confidence": "0.9976012",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 30.0,
+      "ENV_detector": {
+        "ENV": "outside",
+        "ENV_confidence": "0.9428236",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 35.0,
+      "ENV_detector": {
+        "ENV": "inside",
+        "ENV_confidence": "0.9875702",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 40.0,
+      "ENV_detector": {
+        "ENV": "inside",
+        "ENV_confidence": "0.9511895",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 45.0,
+      "ENV_detector": {
+        "ENV": "outside",
+        "ENV_confidence": "0.99103796",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 50.0,
+      "ENV_detector": {
+        "ENV": "outside",
+        "ENV_confidence": "0.98532933",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 55.0,
+      "ENV_detector": {
+        "ENV": "outside",
+        "ENV_confidence": "0.9725906",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 60.0,
+      "ENV_detector": {
+        "ENV": "outside",
+        "ENV_confidence": "0.99002975",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 65.0,
+      "ENV_detector": {
+        "ENV": "outside",
+        "ENV_confidence": "0.99314064",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 70.0,
+      "ENV_detector": {
+        "ENV": "outside",
+        "ENV_confidence": "0.985769",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 75.0,
+      "ENV_detector": {
+        "ENV": "outside",
+        "ENV_confidence": "0.99999607",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 80.0,
+      "ENV_detector": {
+        "ENV": "outside",
+        "ENV_confidence": "0.9938905",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 85.0,
+      "ENV_detector": {
+        "ENV": "outside",
+        "ENV_confidence": "0.9999857",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 90.0,
+      "ENV_detector": {
+        "ENV": "outside",
+        "ENV_confidence": "0.8773598",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    },
+    {
+      "frame_num": 95.0,
+      "ENV_detector": {
+        "ENV": "outside",
+        "ENV_confidence": "0.99296206",
+        "ENV+": "OpenNature/OpenStreet/ClosedNature/ClosedHome",
+        "ENV+_confidence": "TODO"
+      }
+    }
+  ]
+}

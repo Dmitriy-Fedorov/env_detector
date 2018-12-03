@@ -1,0 +1,5 @@
+1 open env
+2 closed nature
+3 open rock
+5 open street
+6 closed home
